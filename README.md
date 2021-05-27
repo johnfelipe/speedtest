@@ -1,4 +1,4 @@
-![LibreSpeed Logo](https://github.com/nishith-p-shetty/speedtest/blob/master/logo/logo3.png?raw=true)
+![LibreSpeed Logo](https://github.com/nishith-p-shetty/speedtest/blob/master/logo/logo3.png)
 
 # LibreSpeed
 THIS IS A MODIFIED VERSION OF LIBRESPEED/SPEEDTEST
