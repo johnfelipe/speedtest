@@ -24,7 +24,9 @@ Works with mobile versions too.
 * Results sharing (optional)
 * Multiple Points of Test (optional)
 
-![Screenshot](https://speedtest.fdossena.com/mpot_v6.gif)
+![Screenshot](https://github.com/nishith-p-shetty/speedtest/blob/main/.logo/SS1.png?raw=true)
+![Screenshot](https://github.com/nishith-p-shetty/speedtest/blob/main/.logo/SS2.png?raw=true)
+![Screenshot](https://github.com/nishith-p-shetty/speedtest/blob/main/.logo/SS3.png?raw=true)
 
 
 ## Server requirements
