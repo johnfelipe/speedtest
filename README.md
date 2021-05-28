@@ -65,6 +65,7 @@ Works with mobile versions too.
     $PostgreSql_hostname="DB_HOSTNAME"; //database address, usually localhost
     $PostgreSql_databasename="DB_NAME"; //the name of the database where you loaded telemetry_postgresql.sql
     ```
+* Goto results/index.php, on line number 171 , $WATERMARK_TEXT = 'YOUR_WATERMARK_HERE'; change YOUR_WATERMARK_HERE to any text
 * Inside result folder goto telementry_settings.php and edit your sql server settings and also add stats password
 * See doc.md to get full information from the actual creater of libre speed
 
